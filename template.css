@@ -1,0 +1,162 @@
+body{
+    font-family: Arial;
+    font-size: 14px;
+}
+
+ #wrapper{
+    width: 960px;
+    overflow: auto;
+    margin: 0 auto;
+}
+
+#header{
+    width:auto;
+    overflow:auto;
+
+}
+#header_top{
+    width: auto;
+    overflow: auto;
+
+}
+#logo{
+    width: 460px;
+    overflow: auto;
+    float: left;
+    margin: 10px;
+}
+#logo h1{
+    margin: 0;
+    padding: 0;
+    font-size: 45px;
+    font-family: italic;
+    font-weight: 100;
+
+}
+
+#cari{
+    width: 460px;
+    overflow: auto;
+    float: left;
+    margin: 30px 10px 10px 10px;
+}
+#cari input:hover{
+    background: peachpuff;
+}
+#cari form{
+    float: right;
+}
+#header_center{
+    width: auto;
+    overflow: auto;
+
+}
+
+#menu_wrapper{
+    width: auto;
+    overflow: auto;
+    background:#59b8cc;
+    border-radius:5px;
+}
+
+#menu{
+    margin: 0;
+    padding: 0;
+}
+
+
+#menu li{
+    list-style: none;
+    float: left;
+}
+
+#menu li a{
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
+#menu li a:hover{
+    background: #1f1f21;
+}
+
+#header_bottom{
+    width: auto;
+    overflow: auto;
+
+}
+
+#content{
+    width: auto;
+    overflow: auto;
+}
+#content_top{
+    margin: 10px;
+    text-align: justify;
+    border-bottom: solid 1px #ededed;
+
+}
+.cc_news{
+    width: 300px;
+    overflow: auto;
+    float: left;
+    margin: 10px;
+
+}
+.cc_new img{
+    border-radius:5px;
+}
+.cc_news a {
+    background: #67bdcc;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 5px;
+    display: block;
+    width: 80px;
+    text-align: center;
+    border-radius:2px ;
+}
+.cc_news a:hover{
+    background: #4ea6b7;
+}
+
+#content_center{
+    width: auto;
+    overflow: auto;
+    border-bottom: solid 1px #ededed;
+}
+#content_bottom{
+    width: auto;
+    overflow: auto;
+
+}
+
+.cb_news{
+    width: 460px;
+    overflow:auto;
+    margin: 10px;
+    float: left;
+
+}
+.cb_news a{
+    background: #67bdcc;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 5px;
+    display: block;
+    width: 80px;
+    text-align: center;
+    border-radius:2px ;
+}
+
+#menu_wrapperr{
+    width: auto;
+    overflow: auto;
+    background:#59b8cc;
+    border-radius:5px;
+}
+
+#footer{
+    width: auto;
+    overflow: auto;
+}
